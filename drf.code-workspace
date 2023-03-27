@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "SearchEngineAPI",
+			"path": "SearchEngineAPI"
 		}
 	],
 	"settings": {}
